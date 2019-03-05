@@ -1,0 +1,25 @@
+Hej Tristan
+ 
+
+Vi ønsker følgende dokumenter reviewet. Dokumenterne er prioriterede, så hvis i ikke når det hele så start fra toppen.
+ 
+
+Systemarkitektur. Hele afsnit 6 inkl. underafsnit.
+Systemarkitektur. Hele  afsnit 8.3 inkl. underafsnit. Her ønskes særligt fokus på om det giver mening den måde events er vist i sekvensdiagrammerne. Altså når der kommer en besked udefra, eller en sensor registrere en forhindring eller lignende.
+Hardwaredesign. Hele dokumentet.
+ 
+
+Fokuspunkter:
+Er der et godt flow i teksten?
+Er det let forståeligt?
+Er der irrelevante afsnit?
+Savner i nogle afsnit eller at visse elementer uddybes yderligere?
+ 
+
+Undlad at fokuserer på stavefejl. Kravspecifikationen er også vedhæftet, men dette er blot i tilfælde af i har behov for at orientere jer i den når i reviewer de ønskede dokumenter.
+ 
+
+Vh
+ 
+
+Michael
